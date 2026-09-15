@@ -33,3 +33,6 @@ Adalah kecenderungan atom untuk melepaskan elektron untuk membentuk ion positif.
 - Pada unsur seperiode, sifat logam berkurang karena daya tarik inti bertambah.
 ##### Note: sifat logam juga berhubungan dengan kereaktifan (kemudahan bereaksi). Unsur logam yang paling reaktif adalah alkali (IA) dan unsur non logam paling reaktif adalah halogen (VIIA). 
 
+## Titik leleh dan titik didih
+- Pada unsur seperiode: titik leleh dan didih naik dari golongan IA - IVA, lalu setelah IVA turun drastis karena unsur hanya berupa molekul bebas dengan ikatan antarmolekul yang lemah (misalnya O2, F2). 
+- Pada unsur segolongan: pada golongan IA - IVA dari atas ke bawah, titik leleh dan didih semakin rendah karena daya tarik inti melemah. Pada golongan VA - VIIIA, dari atas ke bawah, titik leleh dan cair semakin tinggi karena massa molekul bertambah. 
